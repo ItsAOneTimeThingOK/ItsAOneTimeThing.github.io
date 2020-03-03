@@ -1,0 +1,197 @@
+body {
+	  text-align: center;
+    background-color: #ceb3e0;
+    text-decoration: none;
+}
+
+  #outside {
+	  
+	background-color: #f4e8ff;  
+	width: 95%;
+	height: auto;
+	border: 20px double #65468a;
+	margin: auto;
+	display: block;
+	outline: 10px;
+	outline-style: double;
+	outline-color: #65468a;
+	padding: auto; 
+	font-size: 20px;
+	font-style: bold;
+	
+  }	  
+  
+  /*table{
+	background-color: #14858f;
+	border: 5px;  
+	width: 100%;
+  }	*/  
+  h1{
+
+  font-family: 'Patrick Hand', cursive;
+  
+  }
+   h2{
+  font-family: 'Chewy', cursive; 
+   
+}
+   p.normal {
+   font-size: 40px;
+  
+} 
+   
+
+   
+.button1 {
+   font-size: 10px;
+   color: #14858f;
+   
+   
+}
+
+#Table1 img {
+  display:block;
+  padding: 10%;
+}
+
+.title {
+  text-align: center;
+  
+}
+
+button {
+  background-color: #35B89A;
+  color: white;
+  border-radius: 20px;
+  border: black, solid;
+  height: 70px;
+  width: 300px;
+  font-size: 25px;
+}
+
+#prototypediv {
+	background-image: url('https://i.imgur.com/e0bVGeN.jpg');
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-shadow: 0 0 10px 10px white inset;
+}
+
+#header {
+  background-color: #65468A;
+  color: white;
+  text-decoration: none;
+  padding-bottom: 10px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#row {
+  background-color: #35B89A;
+  color: white;
+  border-radius: 20px;
+  border: black, solid;
+  height: 50px;
+  width: 200px;
+  font-size: 25px;
+}
+
+#inputtu {
+  height: 40px;
+  margin-bottom: 50px;
+}
+
+#minion {
+  width: 10%;
+  background-color: #65468A;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+
+.btn-arrow {
+  width: 20%;
+}
+
+.btn-arrow-right {
+  float: left;
+  margin: auto;
+}
+
+.btn-arrow-left {
+  float: right;
+  margin: auto;
+}
+
+.img-item {
+  width: 50%;
+  margin: auto;
+}
+
+#section-clothes-shop {
+  background-color: #f4e8ff;
+  width: 50%;
+  margin: auto;
+  border-style: solid;
+  border-color: #f4e8ff;
+  border-radius: 15px;
+  border-width: 5px;
+  padding-bottom: 25px;
+}
+
+#btn-randomize {
+  background: #35B89A;    
+  padding: 1em;
+  width: 50%;
+  display: block;
+  margin: auto;
+  border-style: solid;
+  border-radius: 25px;
+  border-width: 5px;
+  border-color: #35B89A;
+  font-family: verdana;
+  font-size: 25px;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  word-wrap: break-word;
+}
+
+#banana {
+  width: 25%;
+}
+
+#gru {
+  margin-left: 20%;
+  
+}
+
+#menu {
+  background-color: #35B89A;
+  margin-top: -35px;
+  color: white;
+  height: 60px;
+  
+  width: 100%;
+  
+
+}
+
+#menu button {
+  border: none;
+  background: none;
+  height: 60px;
+  
+}
+
+#grudomain {
+  background-color: #CEB3E0;
+  border: solid, black;
+}
+
+#grudomain button {
+  
+  margin: none;
+  padding: none;
+  
+}
